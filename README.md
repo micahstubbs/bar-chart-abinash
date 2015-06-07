@@ -6,4 +6,4 @@ the chart is adapted from this canonical [stacked bar chart](http://bl.ocks.org/
 
 `\data-prep` with the [fs](https://nodejs.org/api/fs.html) and [jsonfile](https://github.com/jprichardson/node-jsonfile) [nodejs](https://nodejs.org/) modules as a well as a vanilla javascript [while loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while).
 
-![stacked-bar](stacked-bar.png)
+[![stacked-bar](stacked-bar.png)](http://bl.ocks.org/micahstubbs/2320f1e3513b783ef15a)
