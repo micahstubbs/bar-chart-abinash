@@ -1,0 +1,44 @@
+[
+  {
+    "URGENT": 2,
+    "OTHERS": 2,
+    "FYI": 1,
+    "NORMAL": 3,
+    "DAY": "MON"
+  },
+  {
+    "URGENT": 4,
+    "OTHERS": 5,
+    "FYI": 1,
+    "NORMAL": 2,
+    "DAY": "TUE"
+  },
+  {
+    "URGENT": 2,
+    "OTHERS": 2,
+    "FYI": 2,
+    "NORMAL": 5,
+    "DAY": "WED"
+  },
+  {
+    "URGENT": 3,
+    "OTHERS": 0,
+    "FYI": 5,
+    "NORMAL": 6,
+    "DAY": "THU"
+  },
+  {
+    "URGENT": 1,
+    "OTHERS": 4,
+    "FYI": 3,
+    "NORMAL": 5,
+    "DAY": "FRI"
+  },
+  {
+    "URGENT": 1,
+    "OTHERS": 4,
+    "FYI": 3,
+    "NORMAL": 5,
+    "DAY": "SAT"
+  }
+]

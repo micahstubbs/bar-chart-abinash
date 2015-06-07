@@ -1,0 +1,45 @@
+{
+  
+  "MON":{
+    "URGENT": 2,
+    "OTHERS": 2,
+    "FYI": 1,
+    "totalCount": 8,
+    "NORMAL":3
+  },
+  "TUE":{
+    "URGENT": 4,
+    "OTHERS": 5,
+    "FYI": 1,
+    "totalCount": 12,
+    "NORMAL": 2
+  },
+ "WED": {
+    "URGENT": 2,
+    "OTHERS": 2,
+    "FYI": 2,
+    "totalCount": 11,
+    "NORMAL": 5
+  },
+   "THU":{
+    "URGENT": 3,
+    "OTHERS": 0,
+    "FYI": 5,
+    "totalCount": 14,
+    "NORMAL": 6
+  },
+  "FRI":{
+    "URGENT": 1,
+    "OTHERS": 4,
+    "FYI": 3,
+    "totalCount": 13,
+    "NORMAL": 5
+  },
+  "SAT":{
+    "URGENT": 1,
+    "OTHERS": 4,
+    "FYI": 3,
+    "totalCount": 13,
+    "NORMAL": 5
+  }
+}
